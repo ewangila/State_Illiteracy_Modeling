@@ -44,8 +44,8 @@ Source: `faraway` package
 
 ## Project Structure
 ```
-├── State_Illetracy.ipynb     # Main analysis notebook
-├── State_Illetracy.py        # Clean Python script version
+├── State_Illiteracy.ipynb     # Main analysis notebook
+├── State_Illiteracy.py        # Clean Python script version
 ├── requirements.txt          # Project dependencies
 ├── LICENSE                   # MIT License
 └── README.md
@@ -55,8 +55,8 @@ Source: `faraway` package
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/ewangila/State_Illetracy_Analysis.git
-cd State_Illetracy_Analysis
+git clone https://github.com/ewangila/State_Illiteracy_Modeling.git
+cd State_Illiteracy_Modeling
 ```
 
 2. Create and activate a virtual environment (recommended):
@@ -72,12 +72,12 @@ pip install -r requirements.txt
 
 Option 1: Jupyter Notebook
 ```Bash
-jupyter notebook State_Illetracy.ipynb
+jupyter notebook State_Illiteracy.ipynb
 ```
 
 Option 2: Python Script
 ```Bash
-python State_Illetracy.py
+python State_Illiteracy.py
 ```
 
 ## Requirements
